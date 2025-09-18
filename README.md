@@ -10,3 +10,6 @@ echo "Enter your age:"
 read AGE
 echo "You are $AGE years old!"
 
+
+🔹 Example 2: Favorite color
+
